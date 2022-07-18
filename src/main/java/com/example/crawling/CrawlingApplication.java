@@ -36,5 +36,4 @@ public class CrawlingApplication {
 			e.printStackTrace();
 		}
 	}
-
 }
